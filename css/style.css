@@ -1,0 +1,8 @@
+.myh2{
+
+color:green;
+font-size: 3em;
+  text-shadow: 5px 3px 2px #000;
+-webkit-tap-highlight-color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+}
